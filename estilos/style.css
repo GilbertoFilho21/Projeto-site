@@ -4,13 +4,17 @@
 }
 
 body{
-    background-color: rgb(255, 153, 0);
+    background-color: rgb(147, 96, 148);
 }
 
 main{
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.418);
+}
+
+img.lado {
+    float: right;
 }
